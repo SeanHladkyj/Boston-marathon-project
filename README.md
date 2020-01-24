@@ -1,2 +1,2 @@
-# SportDataChallenge2020
-Repository for team work related to the Sport Data Challenge 2020 project
+# BostonMarathonProject
+Repository for team work related to the Boston Marathon project
